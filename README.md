@@ -9,7 +9,7 @@ This project demonstrates training an image recognition model using Google Teach
 - `keras_model.h5`  
   The trained model exported from Teachable Machine in Keras format.
 
-- `predict.py`  
+- `untitled1.py`  
   Python script that loads the trained model, accepts an input image, and predicts its class.
 
 - `teachable_machine_result.png`   
