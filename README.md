@@ -40,16 +40,15 @@ This project demonstrates training an image recognition model using Google Teach
 
 ![Teachable Machine Result](![image](https://github.com/user-attachments/assets/f356343e-a8df-4bb6-a3cd-f7d73eeaed7d)
 )
-or  
-![Teachable Machine Result](![image](https://github.com/user-attachments/assets/a1647e24-d96e-4b2b-bf49-329941084218)
-)
 
 ---
-## Author: Eman Alnahdi.
-
 
 ### Python Script Output
 
 ![Python Script Output](python_output.png)  
 or  
-![Python Script Output](images/python_output.png)
+![Python Script Output](![image](https://github.com/user-attachments/assets/0a7c4e2b-ce0e-4522-9c97-36b578ed1bb8)
+)
+
+## Author: Eman Alnahdi.
+
